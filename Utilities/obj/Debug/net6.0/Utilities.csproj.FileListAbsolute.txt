@@ -1,0 +1,12 @@
+D:\01. CODE\WideWorldImporters\Utilities\bin\Debug\net6.0\Utilities.deps.json
+D:\01. CODE\WideWorldImporters\Utilities\bin\Debug\net6.0\Utilities.dll
+D:\01. CODE\WideWorldImporters\Utilities\bin\Debug\net6.0\Utilities.pdb
+D:\01. CODE\WideWorldImporters\Utilities\obj\Debug\net6.0\Utilities.csproj.AssemblyReference.cache
+D:\01. CODE\WideWorldImporters\Utilities\obj\Debug\net6.0\Utilities.GeneratedMSBuildEditorConfig.editorconfig
+D:\01. CODE\WideWorldImporters\Utilities\obj\Debug\net6.0\Utilities.AssemblyInfoInputs.cache
+D:\01. CODE\WideWorldImporters\Utilities\obj\Debug\net6.0\Utilities.AssemblyInfo.cs
+D:\01. CODE\WideWorldImporters\Utilities\obj\Debug\net6.0\Utilities.csproj.CoreCompileInputs.cache
+D:\01. CODE\WideWorldImporters\Utilities\obj\Debug\net6.0\Utilities.dll
+D:\01. CODE\WideWorldImporters\Utilities\obj\Debug\net6.0\refint\Utilities.dll
+D:\01. CODE\WideWorldImporters\Utilities\obj\Debug\net6.0\Utilities.pdb
+D:\01. CODE\WideWorldImporters\Utilities\obj\Debug\net6.0\ref\Utilities.dll
